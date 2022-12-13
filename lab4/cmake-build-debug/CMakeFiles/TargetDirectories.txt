@@ -1,3 +1,0 @@
-/home/alexey/CLionProjects/OS_LAB4/cmake-build-debug/CMakeFiles/OS_LAB4.dir
-/home/alexey/CLionProjects/OS_LAB4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alexey/CLionProjects/OS_LAB4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
